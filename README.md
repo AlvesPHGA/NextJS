@@ -28,7 +28,7 @@ or
 
 <ul>
    <li>Run: 
-      <pre>npm run dev</pre> or <pre>yarn dev</pre> or <pre>pnpm dev</pre> - (start dev server)
+      <pre>npm run dev</pre> or <pre>yarn dev</pre> or <pre>pnpm dev</pre> (start dev server)
    </li>
 </ul>
 
