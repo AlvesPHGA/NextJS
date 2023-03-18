@@ -4,7 +4,7 @@
 
 This is my first mini-project in Next JS, also my first contanct with Next JS.
 
-## procedures
+## Procedures
 
 ### Install Next JS
 
